@@ -5,3 +5,5 @@ Learning to interact in the Git repository
 2. ...
 3. Создана второстепенная ветвь slawe
 4. Поскольку произведено слияние master и slawe веток (с последующим удалением slawe конечно) - создана slawe2
+
+ok!
